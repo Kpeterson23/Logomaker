@@ -22,6 +22,8 @@ Is run on your terminal
 # Screenshots/Video
 <img width="1470" alt="Screenshot 2023-08-16 at 13 13 50" src="https://github.com/Kpeterson23/Logomaker/assets/124640874/e0763219-9482-42bf-9309-bf256dcd808a">
 
+Video walk-through:
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/627d91e1-8ff3-40ca-y1ae-48ca53b3f40a
 
 
 # License
